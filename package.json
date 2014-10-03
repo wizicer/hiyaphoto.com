@@ -9,10 +9,6 @@
     "hexo-generator-sitemap": "~0.2.0",
     "hexo-console-optimize": "0.0.5",
     "hexo-tag-githubimage": "0.0.1",
-    "hexo-admin-plugin": "~0.1.2",
-    "hexo-qiniu-sync": "0.0.1"
-  },
-  "devDependencies": {
-    "hexo-admin": "git://github.com/wizicer/hexo-admin.git"
+    "hexo-admin-plugin": "~0.1.2"
   }
 }

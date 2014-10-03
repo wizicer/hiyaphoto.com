@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: ÉãÓ°Ê¦Ï«ÑÇ
-subtitle: ÃÈ
-description: Ï«ÑÇµÄ²©¿Í¡¢ÍøÕ¾£¬¼ÇÂ¼Ï«ÑÇ³É³¤ÖĞµÄµãµãµÎµÎ¡£
-author: Ï«ÑÇ
+title: æ‘„å½±å¸ˆæ±äºš
+subtitle: èŒ
+description: æ±äºšçš„åšå®¢ã€ç½‘ç«™ï¼Œè®°å½•æ±äºšæˆé•¿ä¸­çš„ç‚¹ç‚¹æ»´æ»´ã€‚
+author: æ±äºš
 email: support@icerdesign.com
 language: zh-CN
 
@@ -83,7 +83,6 @@ disqus_shortname:
 ## Plugins: https://github.com/hexojs/hexo/wiki/Plugins
 plugins:
 - hexo-tag-githubimage
-- hexo-qiniu-sync
 
 ## Themes: https://github.com/hexojs/hexo/wiki/Themes
 theme: iceman
@@ -95,19 +94,3 @@ deploy:
   type: github
   repo: https://github.com/wizicer/hiyaphoto.com.git
   branch: gh-pages
-
-# qiniu by https://github.com/gyk001/hexo-qiniu-sync
-qiniu:
-  bucket: hiyaphoto
-  offline: false
-  sync: true
-  local_dir: images
-  key_store: ~/.qiniu_key.json
-  image: 
-    folder: images
-    thumbnail: 
-  js:
-    folder: js
-  css:
-    folder: css
-
