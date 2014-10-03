@@ -1,0 +1,3 @@
+[submodule "themes/iceman"]
+	path = themes/iceman
+	url = https://github.com/wizicer/iceman.git

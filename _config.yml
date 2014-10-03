@@ -83,6 +83,8 @@ disqus_shortname:
 ## Plugins: https://github.com/hexojs/hexo/wiki/Plugins
 plugins:
 - hexo-tag-githubimage
+- hexo-qiniu-sync
+
 ## Themes: https://github.com/hexojs/hexo/wiki/Themes
 theme: iceman
 exclude_generator:
@@ -93,3 +95,19 @@ deploy:
   type: github
   repo: https://github.com/wizicer/hiyaphoto.com.git
   branch: gh-pages
+
+# qiniu by https://github.com/gyk001/hexo-qiniu-sync
+qiniu:
+  bucket: hiyaphoto
+  offline: false
+  sync: true
+  local_dir: images
+  key_store: ~/.qiniu_key.json
+  image: 
+    folder: images
+    thumbnail: 
+  js:
+    folder: js
+  css:
+    folder: css
+
