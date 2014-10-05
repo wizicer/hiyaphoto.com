@@ -54,7 +54,7 @@ toc:
 ## if you don't want display contents in a specified post,you can modify `front-matter` and add `toc: false`.
 
 #### Fancybox
-fancybox: false 
+fancybox: true 
 ## if you use gallery post or want use fancybox please set the value to true.
 ## if you want use fancybox in ANY post please copy the file `fancybox.js`.
 ## in theme folder `/pacman/scripts` to your hexo blog folder `../scritps`.
@@ -108,3 +108,15 @@ google_cse:
 #### Standard Search
 standard_search: 
   engine: 'baidu'  ## possible enum: false/google/baidu. set to false if you want to hide the default search box
+
+#### fotorama in index page
+fotorama:
+  enable: true ## true to enable fotorama in index page
+  fit: 'cover' ## Can be 'contain', 'cover', 'scaledown', 'none'
+  nav: 'thumbs' ## Can be 'dots', 'thumbs', false
+  transition: 'slide' ## Can be 'slide', 'crossfade', 'dissolve'
+  autoplay: false ## Can be true or false
+  photos:
+    - "http://s.fotorama.io/1.jpg"
+    - "http://s.fotorama.io/2.jpg"
+## http://fotorama.io/
