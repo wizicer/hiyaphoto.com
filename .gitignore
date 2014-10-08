@@ -7,3 +7,5 @@ public/
 .deploy/
 qrsync/
 cdnimages/
+originimages/
+tmpresizeimages/
