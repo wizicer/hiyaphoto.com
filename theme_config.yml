@@ -5,7 +5,7 @@ menu:
   标签: /tags
   分类: /categories
   关于爱: http://love.icerdesign.com
-  关于我: /about
+  关于我: /Hi%EF%BC%8C%E6%88%91%E6%98%AF%E6%91%84%E5%BD%B1%E5%B8%88%E6%B1%90%E4%BA%9A/ 
 ## you can create `tags` and `categories` folders in `../source`.
 ## And create a `index.md` file in each of them.
 ## set `front-matter`as
@@ -28,7 +28,7 @@ rss: ## RSS address.
 imglogo:
   enable: true             ## display image logo true/false.
   src: img/hiya.jpg        ## `.svg` and `.png` are recommended,please put image into the theme folder `/pacman/source/img`.
-favicon: img/favicon.ico   ## size:32px*32px,`.ico` is recommended,please put image into the theme folder `/pacman/source/img`.     
+favicon: img/favicon.png   ## size:32px*32px,`.ico` is recommended,please put image into the theme folder `/pacman/source/img`.     
 apple_icon: img/hiya.jpg   ## size:114px*114px,please put image into the theme folder `/pacman/source/img`.
 
 #### Author Avatar Picture
@@ -118,47 +118,41 @@ fotorama:
   loop: true ## Can be true or false
   baseurl: '' ## base url will be prefixed to photo url, both show and thumb
   photos:
-    - { show: "/wall/1.jpg", thumb: "/wall/1_thumb.jpg" }
-    - { show: "/wall/2.jpg", thumb: "/wall/2_thumb.jpg" }
-    - { show: "/wall/3.jpg", thumb: "/wall/3_thumb.jpg" }
-    - { show: "/wall/4.jpg", thumb: "/wall/4_thumb.jpg" }
-    - { show: "/wall/5.jpg", thumb: "/wall/5_thumb.jpg" }
-    - { show: "/wall/6.jpg", thumb: "/wall/6_thumb.jpg" }
-    - { show: "/wall/7.jpg", thumb: "/wall/7_thumb.jpg" }
-    - { show: "/wall/8.jpg", thumb: "/wall/8_thumb.jpg" }
-    - { show: "/wall/9.jpg", thumb: "/wall/9_thumb.jpg" }
-    - { show: "/wall/10.jpg", thumb: "/wall/10_thumb.jpg" }
-    - { show: "/wall/11.jpg", thumb: "/wall/11_thumb.jpg" }
-    - { show: "/wall/12.jpg", thumb: "/wall/12_thumb.jpg" }
-    - { show: "/wall/13.jpg", thumb: "/wall/13_thumb.jpg" }
-    - { show: "/wall/14.jpg", thumb: "/wall/14_thumb.jpg" }
-    - { show: "/wall/15.jpg", thumb: "/wall/15_thumb.jpg" }
-    - { show: "/wall/16.jpg", thumb: "/wall/16_thumb.jpg" }
-    - { show: "/wall/17.jpg", thumb: "/wall/17_thumb.jpg" }
-    - { show: "/wall/18.jpg", thumb: "/wall/18_thumb.jpg" }
-    - { show: "/wall/19.jpg", thumb: "/wall/19_thumb.jpg" }
-    - { show: "/wall/20.jpg", thumb: "/wall/20_thumb.jpg" }
-    - { show: "/wall/21.jpg", thumb: "/wall/21_thumb.jpg" }
-    - { show: "/wall/22.jpg", thumb: "/wall/22_thumb.jpg" }
-    - { show: "/wall/23.jpg", thumb: "/wall/23_thumb.jpg" }
-    - { show: "/wall/24.jpg", thumb: "/wall/24_thumb.jpg" }
-    - { show: "/wall/25.jpg", thumb: "/wall/25_thumb.jpg" }
-    - { show: "/wall/26.jpg", thumb: "/wall/26_thumb.jpg" }
-    - { show: "/wall/27.jpg", thumb: "/wall/27_thumb.jpg" }
-    - { show: "/wall/28.jpg", thumb: "/wall/28_thumb.jpg" }
-    - { show: "/wall/29.jpg", thumb: "/wall/29_thumb.jpg" }
-    - { show: "/wall/30.jpg", thumb: "/wall/30_thumb.jpg" }
-    - { show: "/wall/31.jpg", thumb: "/wall/31_thumb.jpg" }
-    - { show: "/wall/32.jpg", thumb: "/wall/32_thumb.jpg" }
-    - { show: "/wall/33.jpg", thumb: "/wall/33_thumb.jpg" }
-    - { show: "/wall/34.jpg", thumb: "/wall/34_thumb.jpg" }
-    - { show: "/wall/35.jpg", thumb: "/wall/35_thumb.jpg" }
-    - { show: "/wall/36.jpg", thumb: "/wall/36_thumb.jpg" }
-    - { show: "/wall/37.jpg", thumb: "/wall/37_thumb.jpg" }
-    - { show: "/wall/38.jpg", thumb: "/wall/38_thumb.jpg" }
-    - { show: "/wall/39.jpg", thumb: "/wall/39_thumb.jpg" }
-    - { show: "/wall/40.jpg", thumb: "/wall/40_thumb.jpg" }
-    - { show: "/wall/41.jpg", thumb: "/wall/41_thumb.jpg" }
-    - { show: "/wall/42.jpg", thumb: "/wall/42_thumb.jpg" }
-    - { show: "/wall/43.jpg", thumb: "/wall/43_thumb.jpg" }
+    - { show: "http://hiyaphoto.qiniudn.com/blog/wall/31.jpg", thumb: "http://hiyaphoto.qiniudn.com/blog/wall/31_thumb.jpg" }
+    - { show: "http://hiyaphoto.qiniudn.com/blog/wall/1.jpg", thumb: "http://hiyaphoto.qiniudn.com/blog/wall/1_thumb.jpg" }
+    - { show: "http://hiyaphoto.qiniudn.com/blog/wall/2.jpg", thumb: "http://hiyaphoto.qiniudn.com/blog/wall/2_thumb.jpg" }
+    - { show: "http://hiyaphoto.qiniudn.com/blog/wall/3.jpg", thumb: "http://hiyaphoto.qiniudn.com/blog/wall/3_thumb.jpg" }
+    - { show: "http://hiyaphoto.qiniudn.com/blog/wall/4.jpg", thumb: "http://hiyaphoto.qiniudn.com/blog/wall/4_thumb.jpg" }
+    - { show: "http://hiyaphoto.qiniudn.com/blog/wall/5.jpg", thumb: "http://hiyaphoto.qiniudn.com/blog/wall/5_thumb.jpg" }
+    - { show: "http://hiyaphoto.qiniudn.com/blog/wall/6.jpg", thumb: "http://hiyaphoto.qiniudn.com/blog/wall/6_thumb.jpg" }
+    - { show: "http://hiyaphoto.qiniudn.com/blog/wall/7.jpg", thumb: "http://hiyaphoto.qiniudn.com/blog/wall/7_thumb.jpg" }
+    - { show: "http://hiyaphoto.qiniudn.com/blog/wall/8.jpg", thumb: "http://hiyaphoto.qiniudn.com/blog/wall/8_thumb.jpg" }
+    - { show: "http://hiyaphoto.qiniudn.com/blog/wall/13.jpg", thumb: "http://hiyaphoto.qiniudn.com/blog/wall/13_thumb.jpg" }
+    - { show: "http://hiyaphoto.qiniudn.com/blog/wall/14.jpg", thumb: "http://hiyaphoto.qiniudn.com/blog/wall/14_thumb.jpg" }
+    - { show: "http://hiyaphoto.qiniudn.com/blog/wall/15.jpg", thumb: "http://hiyaphoto.qiniudn.com/blog/wall/15_thumb.jpg" }
+    - { show: "http://hiyaphoto.qiniudn.com/blog/wall/16.jpg", thumb: "http://hiyaphoto.qiniudn.com/blog/wall/16_thumb.jpg" }
+    - { show: "http://hiyaphoto.qiniudn.com/blog/wall/17.jpg", thumb: "http://hiyaphoto.qiniudn.com/blog/wall/17_thumb.jpg" }
+    - { show: "http://hiyaphoto.qiniudn.com/blog/wall/18.jpg", thumb: "http://hiyaphoto.qiniudn.com/blog/wall/18_thumb.jpg" }
+    - { show: "http://hiyaphoto.qiniudn.com/blog/wall/19.jpg", thumb: "http://hiyaphoto.qiniudn.com/blog/wall/19_thumb.jpg" }
+    - { show: "http://hiyaphoto.qiniudn.com/blog/wall/20.jpg", thumb: "http://hiyaphoto.qiniudn.com/blog/wall/20_thumb.jpg" }
+    - { show: "http://hiyaphoto.qiniudn.com/blog/wall/22.jpg", thumb: "http://hiyaphoto.qiniudn.com/blog/wall/22_thumb.jpg" }
+    - { show: "http://hiyaphoto.qiniudn.com/blog/wall/23.jpg", thumb: "http://hiyaphoto.qiniudn.com/blog/wall/23_thumb.jpg" }
+    - { show: "http://hiyaphoto.qiniudn.com/blog/wall/24.jpg", thumb: "http://hiyaphoto.qiniudn.com/blog/wall/24_thumb.jpg" }
+    - { show: "http://hiyaphoto.qiniudn.com/blog/wall/25.jpg", thumb: "http://hiyaphoto.qiniudn.com/blog/wall/25_thumb.jpg" }
+    - { show: "http://hiyaphoto.qiniudn.com/blog/wall/26.jpg", thumb: "http://hiyaphoto.qiniudn.com/blog/wall/26_thumb.jpg" }
+    - { show: "http://hiyaphoto.qiniudn.com/blog/wall/27.jpg", thumb: "http://hiyaphoto.qiniudn.com/blog/wall/27_thumb.jpg" }
+    - { show: "http://hiyaphoto.qiniudn.com/blog/wall/28.jpg", thumb: "http://hiyaphoto.qiniudn.com/blog/wall/28_thumb.jpg" }
+    - { show: "http://hiyaphoto.qiniudn.com/blog/wall/29.jpg", thumb: "http://hiyaphoto.qiniudn.com/blog/wall/29_thumb.jpg" }
+    - { show: "http://hiyaphoto.qiniudn.com/blog/wall/30.jpg", thumb: "http://hiyaphoto.qiniudn.com/blog/wall/30_thumb.jpg" }
+    - { show: "http://hiyaphoto.qiniudn.com/blog/wall/32.jpg", thumb: "http://hiyaphoto.qiniudn.com/blog/wall/32_thumb.jpg" }
+    - { show: "http://hiyaphoto.qiniudn.com/blog/wall/33.jpg", thumb: "http://hiyaphoto.qiniudn.com/blog/wall/33_thumb.jpg" }
+    - { show: "http://hiyaphoto.qiniudn.com/blog/wall/34.jpg", thumb: "http://hiyaphoto.qiniudn.com/blog/wall/34_thumb.jpg" }
+    - { show: "http://hiyaphoto.qiniudn.com/blog/wall/36.jpg", thumb: "http://hiyaphoto.qiniudn.com/blog/wall/36_thumb.jpg" }
+    - { show: "http://hiyaphoto.qiniudn.com/blog/wall/37.jpg", thumb: "http://hiyaphoto.qiniudn.com/blog/wall/37_thumb.jpg" }
+    - { show: "http://hiyaphoto.qiniudn.com/blog/wall/38.jpg", thumb: "http://hiyaphoto.qiniudn.com/blog/wall/38_thumb.jpg" }
+    - { show: "http://hiyaphoto.qiniudn.com/blog/wall/39.jpg", thumb: "http://hiyaphoto.qiniudn.com/blog/wall/39_thumb.jpg" }
+    - { show: "http://hiyaphoto.qiniudn.com/blog/wall/40.jpg", thumb: "http://hiyaphoto.qiniudn.com/blog/wall/40_thumb.jpg" }
+    - { show: "http://hiyaphoto.qiniudn.com/blog/wall/41.jpg", thumb: "http://hiyaphoto.qiniudn.com/blog/wall/41_thumb.jpg" }
+    - { show: "http://hiyaphoto.qiniudn.com/blog/wall/42.jpg", thumb: "http://hiyaphoto.qiniudn.com/blog/wall/42_thumb.jpg" }
+    - { show: "http://hiyaphoto.qiniudn.com/blog/wall/43.jpg", thumb: "http://hiyaphoto.qiniudn.com/blog/wall/43_thumb.jpg" }
 ## http://fotorama.io/
