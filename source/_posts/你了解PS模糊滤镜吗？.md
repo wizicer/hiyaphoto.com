@@ -6,7 +6,7 @@ categories:
   - 后期教程
 date: 2014-04-10 21:31:00
 ---
-　　近来身体状况没办法常出门外拍，只有坐在家里玩PS了。通常我们用PS处理照片都是调色磨皮液化为主，很少会用到其他的滤镜功能。其实多实验下不同的滤镜，会发现许多有趣的效果，比如之前我提过的“极坐标”滤镜，还有各种外挂滤镜，比如“线之绘”（这个滤镜挺有意思的，今天没时间聊，大家可以去百度一下）。
+近来身体状况没办法常出门外拍，只有坐在家里玩PS了。通常我们用PS处理照片都是调色磨皮液化为主，很少会用到其他的滤镜功能。其实多实验下不同的滤镜，会发现许多有趣的效果，比如之前我提过的“极坐标”滤镜，还有各种外挂滤镜，比如“线之绘”（这个滤镜挺有意思的，今天没时间聊，大家可以去百度一下）。
 
 　　今天我主要说说PS里的几种模糊滤镜。除了遮瑕外，我们也可以利用一些特殊的模糊来营造动态效果，比如这张：
 
@@ -27,8 +27,8 @@ date: 2014-04-10 21:31:00
 ------------
 欢迎关注微信公众号【摄影师汐亚】（微信号:hiyaphoto）
 每天坚持分享原创摄影作品、观点及教程。也期待收到你的留言建议噢～
-我的个人微博：weibo.com/lovehiya
+我的个人微博：[weibo.com/lovehiya](http://weibo.com/lovehiya)
 个人微信：lovehiya
-网易lofter：lovehiya.lofter.com
-新浪博客：blog.sina.com.cn/lovehiya
-Flickr相册：www.flickr.com/photos/hiya1024
+网易lofter：[lovehiya.lofter.com](http://lovehiya.lofter.com)
+新浪博客：[blog.sina.com.cn/lovehiya](http://blog.sina.com.cn/lovehiya)
+Flickr相册：[www.flickr.com/photos/hiya1024](http://www.flickr.com/photos/hiya1024)

@@ -85,8 +85,8 @@ lightroom和ps里都可以做渐变。在PS中，通常我会在照片上方新�
 ----------
 欢迎关注微信公众号【摄影师汐亚】（微信号:hiyaphoto）
 每天坚持分享原创摄影作品、观点及教程。也期待收到你的留言建议噢～
-我的个人微博：weibo.com/lovehiya
+我的个人微博：[weibo.com/lovehiya](http://weibo.com/lovehiya)
 个人微信：lovehiya
-网易lofter：lovehiya.lofter.com
-新浪博客：blog.sina.com.cn/lovehiya
-Flickr相册：www.flickr.com/photos/hiya1024
+网易lofter：[lovehiya.lofter.com](http://lovehiya.lofter.com)
+新浪博客：[blog.sina.com.cn/lovehiya](http://blog.sina.com.cn/lovehiya)
+Flickr相册：[www.flickr.com/photos/hiya1024](http://www.flickr.com/photos/hiya1024)
