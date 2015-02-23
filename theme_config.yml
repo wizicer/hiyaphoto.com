@@ -5,6 +5,7 @@ menu:
   标签: /tags
   分类: /categories
   关于爱: http://love.icerdesign.com
+  关于编程: http://icerdesign.com
   关于我: /Hi%EF%BC%8C%E6%88%91%E6%98%AF%E6%91%84%E5%BD%B1%E5%B8%88%E6%B1%90%E4%BA%9A/ 
 ## you can create `tags` and `categories` folders in `../source`.
 ## And create a `index.md` file in each of them.
