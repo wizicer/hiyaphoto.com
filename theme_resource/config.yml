@@ -19,11 +19,12 @@ widgets:
 - category
 - tag
 - introduction
+- rss
 ## provide six widgets:category,tag,rss,archive,tagcloud,links.
 ## modify links in `/layout/_widget/links.ejs`.
 
 #### RSS
-rss: ## RSS address.
+rss: atom.xml ## RSS address.
 
 #### Image
 imglogo:
@@ -39,7 +40,7 @@ dataURI: false
 ## convert an image into base 64 data URIs http://websemantics.co.uk/online_tools/image_to_data_uri_convertor/ .
 author_img_data: ''
 ## paste the dataURI in ONE LINE and included it by ''.
-author_img: img/author.jpg ## size:220px*220px.
+author_img: /img/author.jpg ## size:220px*220px.
 ## if the picture's format is `.png` or `.jpg`  instead of dataURI,you should set the `dataURI` value to false.
 
 #### Font
@@ -111,7 +112,7 @@ standard_search:
 
 #### fotorama in index page
 fotorama:
-  enable: true ## true to enable fotorama in index page
+  enable: false ## true to enable fotorama in index page
   fit: 'contain' ## Can be 'contain', 'cover', 'scaledown', 'none'
   nav: 'thumbs' ## Can be 'dots', 'thumbs', false
   transition: 'slide' ## Can be 'slide', 'crossfade', 'dissolve'
@@ -157,3 +158,5 @@ fotorama:
     - { show: "http://hiyaphoto.qiniudn.com/blog/wall/42.jpg", thumb: "http://hiyaphoto.qiniudn.com/blog/wall/42_thumb.jpg" }
     - { show: "http://hiyaphoto.qiniudn.com/blog/wall/43.jpg", thumb: "http://hiyaphoto.qiniudn.com/blog/wall/43_thumb.jpg" }
 ## http://fotorama.io/
+
+showUpdateDate: false
