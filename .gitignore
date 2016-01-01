@@ -9,3 +9,5 @@ qrsync/
 cdnimages/
 originimages/
 tmpresizeimages/
+.deploy_git
+
